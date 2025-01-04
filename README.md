@@ -1,6 +1,6 @@
 ## Hello! 👋
 I am a web developer, aspiring game developer and life-long learner. Currently refining my skills and trying to excel as a software developer.
-Pursuing some new experiences like **making open-source contributions**, **deploying my own website**, **releasing a full game**.
+For now, I am pursuing some new experiences and developing habits like **making open-source contributions**, **deploying my own website**, **releasing a full game**.
 
 ## About me:
 - 🔭 I’m currently working on a web project
