@@ -1,4 +1,4 @@
-## Hello! I'm Jewel Josef P. Seno👋
+## Hello! 👋
 A full-stack web developer, aspiring game developer and life-long learner. Currently refining my skills and trying to excel as a software developer.
 
 ## About me:
