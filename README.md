@@ -14,6 +14,7 @@ For now, I am pursuing some new experiences and developing habits like **making 
 
 ## What I use:
 ![javascript](https://github.com/user-attachments/assets/cb1404f9-6bd3-4b4e-b03a-40a5b073144f) 
+![typescript](https://github.com/user-attachments/assets/c42d841f-0ab1-4e41-9cd2-8fc0cbfcde82)
 ![html5](https://github.com/user-attachments/assets/c212e808-ee3b-4e8e-ab08-07c2999ecda5) 
 ![css](https://github.com/user-attachments/assets/2ae3bb69-8683-4087-872c-70c4b81f8b6d) 
 ![vuedotjs](https://github.com/user-attachments/assets/a26a7876-4dbb-4e9b-b621-4d7fa7768146) 
